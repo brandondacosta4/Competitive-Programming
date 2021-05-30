@@ -4,8 +4,6 @@ void printLinkedList(SinglyLinkedListNode* head) {
         cout << head -> data << '\n';
         head = head -> next;
         
-    }
-    
-    
+    } 
 
 }
