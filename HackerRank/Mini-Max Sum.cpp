@@ -13,3 +13,6 @@ void miniMaxSum(vector<int> arr) {
         max += arr[i];
         
     }
+    cout << min << " " << max;
+
+}
